@@ -3,8 +3,8 @@ public class sai{
         int a =40
         int b =40
         int c= 80
-        System.out.println(c+b)
+        System.out.println(c-b)
         System.out.println(a+b)
-        System.out.println(a-b-c)
+        System.out.println(a+b+c)
     }
 }

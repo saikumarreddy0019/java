@@ -1,8 +1,9 @@
 parent{
-    background-color: brown;
-    background-size: 0%
-    font style :auto
-    font weight:cover
+    font: optional;
+    font-variant-ligatures: 40px;
+    font-variant-numeric: 35px;
+    font-style: 30;
+    font-stretch: expanded;
 
     
 }
