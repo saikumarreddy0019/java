@@ -1,9 +1,9 @@
 parent{
     font: optional;
-    font-variant-ligatures: 40px;
-    font-variant-numeric: 35px;
-    font-style: 30;
-    font-stretch: expanded;
+    font-variant-ligatures: 90px;
+    font-variant-numeric: 55px;
+    font-style: 40;
+    font-stretch: not expanded;
 
     
 }
